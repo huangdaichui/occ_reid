@@ -36,7 +36,7 @@ python3 main.py --mode test \
 
 ```
 
-Accepted by the Information Science, awaiting publication.
+Corresponding papers will appear in Information Science，2022.
 
 ```
 If you have any questions, please contact us with 1216246628@qq.com
